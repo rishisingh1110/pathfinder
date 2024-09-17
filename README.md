@@ -1,6 +1,6 @@
 To run this app in your local, please do 
 'npm i' 
-in pathfinding-visualizer-vite directory 
+in root directory 
 and then do 
 'npm run dev'
 
